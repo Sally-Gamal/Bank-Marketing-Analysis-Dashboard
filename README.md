@@ -3,15 +3,15 @@
 ## 1. 🖼️ Dashboards Preview
 
 ### **A. Executive Overview**
-![Executive Overview](Executive%20Overview_2.jpg)
+![Executive Overview](Executive overview.jpg)
 *Focuses on high-level KPIs, monthly trends, and overall campaign profitability.*
 
 ### **B. Customer Profile Analysis**
-![Customer Profile](Customer%20Profile_2.jpg)
+![Customer Profile](Customer Profile.jpg)
 *Delves into demographic segmentation, wealth distribution, and the impact of existing liabilities.*
 
 ### **C. Campaign Strategy & Performance**
-![Campaign Strategy](Campaign%20Strategy_2.jpg)
+![Campaign Strategy](Campaign Strategy.jpg)
 *Evaluates operational efficiency, communication channels, and conversion funnel success.*
 
 ---
@@ -56,4 +56,4 @@ This project delivers a comprehensive **360-degree analysis** of a retail bankin
 ## 📂 Project Files
 *   `bank.csv`: Raw dataset containing 11,162 customer records[cite: 1].
 *   `Bank Marketing.pbix`: Full Power BI report with interactive elements.
-*   `Executive Overview_2.jpg` | `Customer Profile_2.jpg` | `Campaign Strategy_2.jpg`: Dashboard snapshots.
+*   `Executive Overview.jpg` | `Customer Profile.jpg` | `Campaign Strategy.jpg`: Dashboard snapshots.
