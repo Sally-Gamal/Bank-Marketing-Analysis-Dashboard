@@ -3,15 +3,15 @@
 ## 1. 🖼️ Dashboards Preview
 
 ### **A. Executive Overview**
-![Executive Overview](Executive overview.jpg)
+![Executive Overview](Executive%20Overview.jpg)
 *Focuses on high-level KPIs, monthly trends, and overall campaign profitability.*
 
 ### **B. Customer Profile Analysis**
-![Customer Profile](Customer Profile.jpg)
+![Customer Profile](Customer%20Profile.jpg)
 *Delves into demographic segmentation, wealth distribution, and the impact of existing liabilities.*
 
 ### **C. Campaign Strategy & Performance**
-![Campaign Strategy](Campaign Strategy.jpg)
+![Campaign Strategy](Campaign%20Strategy.jpg)
 *Evaluates operational efficiency, communication channels, and conversion funnel success.*
 
 ---
